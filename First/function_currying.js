@@ -1,4 +1,7 @@
-/*Function currying is a technique in JavaScript where a function with multiple arguments is transformed into a series of functions that take one argument each. This transformation allows you to create more specialized and reusable functions. Currying is achieved by breaking down a function that takes multiple arguments into a series of nested functions, where each function takes a single argument and returns another function until all the arguments are processed.*/
+/*Function currying is a technique in JavaScript where a function with multiple arguments is transformed 
+into a series of functions that take one argument each. This transformation allows you to create more s
+pecialized and reusable functions. Currying is achieved by breaking down a function that takes multiple arguments into a 
+series of nested functions, where each function takes a single argument and returns another function until all the arguments are processed.*/
 
 
 // Currying
